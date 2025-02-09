@@ -9,7 +9,7 @@ FruitsToReset = {  -- << Fruits it'll reset with, so you can put these fruits in
     "Barrier-Barrier",
     "Spider-Spider",
     "Rumble-Rumble",
-    "Pain-Pain",
+    "Pain-Pain"
 }
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/script/refs/heads/main/note"))()
